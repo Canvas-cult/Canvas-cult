@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working at Big Oh Notation Pvt Lmt.
+- 🔭 I’m Software Engineer (Backend)
 - 🌱 I’m currently learning Spring MVC
 - 👯 I’m looking to collaborate on Java Rest APIs
 - 📫 How to reach me: payalsingh.pb99@gmail.com

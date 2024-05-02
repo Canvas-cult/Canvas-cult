@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: payalsingh.pb99@gmail.com
  
 [![An image of @canvascult's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/canvascult)](https://holopin.io/@canvascult)
-<iframe src="https://1drv.ms/b/c/f0ec7042104acd50/IQPPIxCDTecwQLO3VHMJ7z14AajSXNA1Jn2hm2S0JpKfWK4" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+resume: https://1drv.ms/b/c/f0ec7042104acd50/IQPPIxCDTecwQLO3VHMJ7z14AajSXNA1Jn2hm2S0JpKfWK4
